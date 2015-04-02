@@ -1,2 +1,3 @@
-# eventboilerplate
+# Event Boilerplate
+
 Event page
