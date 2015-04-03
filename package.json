@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/eventboilerplate/issues"
   },
-  "homepage": "https://github.com/AgtLucas/eventboilerplate"
+  "homepage": "https://github.com/AgtLucas/eventboilerplate",
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "react": "^0.13.1"
+  }
 }
